@@ -5,7 +5,7 @@ function perimeter(b, c) { // beginnig of task number 2
 let b=4
 let c=5
 res = perimeter(b,c)
-console.log("If sides are", b, "and", c, "then perimeter is equal to",res) //task number 2
+console.log("If sides are", b, "and", c, "then perimeter is equal to",res) //end of task number 2
 
 
 
