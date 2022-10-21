@@ -22,7 +22,7 @@ else {
 
 
 
-let e = 15
+let e = 15 //beginnig of task number 13
 let f = 10
 if (e>f) {
     console.log (e, "is bigger than", f)
@@ -32,6 +32,6 @@ else if (e==f) {
 }
 else {
     console.log (e, "is less than", f)
-}
+} //end of task number 13
 
 
